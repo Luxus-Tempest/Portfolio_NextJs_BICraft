@@ -1,0 +1,48 @@
+.container {
+}
+.catTitle {
+  color: #178582;
+}
+
+.item{
+  display: flex;
+  gap: 50px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.item:nth-child(2n+1){
+    flex-direction: row-reverse;
+}
+
+
+
+.imgContainer{
+  flex:1;
+  height: 500px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #178582;
+}
+
+.img{
+  object-fit: contain;
+  border-radius: 10px;
+  border: 1px solid #1D1D1D;
+}
+
+.content{
+  flex:1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+}
+
+.title{
+  font-size: 50px;
+}
+
+.desc{
+  font-size: 20px;
+}
