@@ -60,7 +60,7 @@ export const items = {
         desc: "Explorez un éventail de projets qui incarnent ma vision artistique et mes compétences techniques. Des designs graphiques captivants aux développements web interactifs, chaque création raconte une histoire unique.",
         image:
           "/portfolio.png",
-        github: "https://github.com/Luxus-Tempest/E-commerce/blob/main/README.md",
+        github: "https://github.com/Luxus-Tempest/Portfolio_NextJs_BICraft",
         
       },
       {
@@ -69,7 +69,7 @@ export const items = {
         desc: "Bienvenue sur BlogBox, votre destination virtuelle pour l'exploration de contenus captivants, d'histoires inspirantes et de découvertes fascinantes. Je suis [Votre Nom], le créateur de ce blog, et je suis ravi de partager avec vous une variété de sujets qui suscitent l'intérêt et stimulent la réflexion.",
         image:
           "/blog.png",
-        github: "https://github.com/Luxus-Tempest/E-commerce/blob/main/README.md",
+        github: "https://github.com/Luxus-Tempest/Portfolio_NextJs_BICraft",
         
       }
     ],
